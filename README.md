@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ExpressJs, GraphQl, Firebase ...
 - 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/shanedorsey/)
 
--->
+---
 
 [![Shane's GitHub stats](https://github-readme-stats.vercel.app/api?username=scdorsey22)](https://github.com/anuraghazra/github-readme-stats)
 
