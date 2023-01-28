@@ -1,4 +1,4 @@
-#                                                         Hi, I'm Shane Dorsey 👋
+<h1 align="center>Hi, I'm Shane Dorsey 👋</h1>
 
 <!--
 **scdorsey22/scdorsey22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
