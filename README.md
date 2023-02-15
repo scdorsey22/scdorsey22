@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 
 - 👨🏼‍💻 Check out my portfolio webite [here](https://shanedorsey.com/)
 - 🎓 Experience in React, Ruby on Rails, Posgresql, NodeJs, Javascript, HTML, CSS.
-- 🌱 I’m currently learning VueJS, ExpressJs, GraphQl, Firebase, Bootstrap
+- 🌱 I’m currently learning VueJS, ExpressJs, GraphQl, Firebase, Bootstrap, MongoDB
 - 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/shanedorsey/)
 
 ---
